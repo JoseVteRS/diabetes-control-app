@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "date": "2023-05-06T08:00:00",
+    "data": [
+      {
+        "id": "1",
+        "hour": "06:00:00",
+        "details": [],
+        "value": "150",
+        "moment": "FATING"
+      },
+      {
+        "id": "1",
+        "hour": "10:00:00",
+        "details": [],
+        "value": "150",
+        "moment": "ONE_HOUR_AFTER_BREAKFAST"
+      },
+      {
+        "id": "1",
+        "hour": "13:00:00",
+        "details": [],
+        "value": "160",
+        "moment": "ONE_HOUR_BEFORE_LUNCH"
+      },
+      {
+        "id": "1",
+        "hour": "15:30:00",
+        "details": [],
+        "value": "130",
+        "moment": "ONE_HOUR_AFTER_LUNCH"
+      },
+      {
+        "id": "1",
+        "hour": "20:00:00",
+        "details": [],
+        "value": "135",
+        "moment": "ONE_HOUR_BEFORE_DINNER"
+      },
+      {
+        "id": "2",
+        "hour": "22:00:00",
+        "details": [],
+        "value": "168",
+        "moment": "ONE_HOUR_AFTER_DINNER"
+      }
+    ]
+  }
+]
